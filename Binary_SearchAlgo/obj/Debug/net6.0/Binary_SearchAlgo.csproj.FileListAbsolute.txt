@@ -1,0 +1,15 @@
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\bin\Debug\net6.0\Binary_SearchAlgo.exe
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\bin\Debug\net6.0\Binary_SearchAlgo.deps.json
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\bin\Debug\net6.0\Binary_SearchAlgo.runtimeconfig.json
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\bin\Debug\net6.0\Binary_SearchAlgo.dll
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\bin\Debug\net6.0\ref\Binary_SearchAlgo.dll
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\bin\Debug\net6.0\Binary_SearchAlgo.pdb
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\obj\Debug\net6.0\Binary_SearchAlgo.csproj.AssemblyReference.cache
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\obj\Debug\net6.0\Binary_SearchAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\obj\Debug\net6.0\Binary_SearchAlgo.AssemblyInfoInputs.cache
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\obj\Debug\net6.0\Binary_SearchAlgo.AssemblyInfo.cs
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\obj\Debug\net6.0\Binary_SearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\obj\Debug\net6.0\Binary_SearchAlgo.dll
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\obj\Debug\net6.0\ref\Binary_SearchAlgo.dll
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\obj\Debug\net6.0\Binary_SearchAlgo.pdb
+C:\Users\EKTA\Desktop\Binary_SearchAlgo\obj\Debug\net6.0\Binary_SearchAlgo.genruntimeconfig.cache
