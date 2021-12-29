@@ -1,0 +1,15 @@
+C:\Users\EKTA\Desktop\Delete_Kth\bin\Debug\net6.0\Delete_Kth.exe
+C:\Users\EKTA\Desktop\Delete_Kth\bin\Debug\net6.0\Delete_Kth.deps.json
+C:\Users\EKTA\Desktop\Delete_Kth\bin\Debug\net6.0\Delete_Kth.runtimeconfig.json
+C:\Users\EKTA\Desktop\Delete_Kth\bin\Debug\net6.0\Delete_Kth.dll
+C:\Users\EKTA\Desktop\Delete_Kth\bin\Debug\net6.0\ref\Delete_Kth.dll
+C:\Users\EKTA\Desktop\Delete_Kth\bin\Debug\net6.0\Delete_Kth.pdb
+C:\Users\EKTA\Desktop\Delete_Kth\obj\Debug\net6.0\Delete_Kth.csproj.AssemblyReference.cache
+C:\Users\EKTA\Desktop\Delete_Kth\obj\Debug\net6.0\Delete_Kth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKTA\Desktop\Delete_Kth\obj\Debug\net6.0\Delete_Kth.AssemblyInfoInputs.cache
+C:\Users\EKTA\Desktop\Delete_Kth\obj\Debug\net6.0\Delete_Kth.AssemblyInfo.cs
+C:\Users\EKTA\Desktop\Delete_Kth\obj\Debug\net6.0\Delete_Kth.csproj.CoreCompileInputs.cache
+C:\Users\EKTA\Desktop\Delete_Kth\obj\Debug\net6.0\Delete_Kth.dll
+C:\Users\EKTA\Desktop\Delete_Kth\obj\Debug\net6.0\ref\Delete_Kth.dll
+C:\Users\EKTA\Desktop\Delete_Kth\obj\Debug\net6.0\Delete_Kth.pdb
+C:\Users\EKTA\Desktop\Delete_Kth\obj\Debug\net6.0\Delete_Kth.genruntimeconfig.cache
