@@ -1,0 +1,15 @@
+C:\Users\EKTA\Desktop\Detect_Cyclic\bin\Debug\net6.0\Detect_Cyclic.exe
+C:\Users\EKTA\Desktop\Detect_Cyclic\bin\Debug\net6.0\Detect_Cyclic.deps.json
+C:\Users\EKTA\Desktop\Detect_Cyclic\bin\Debug\net6.0\Detect_Cyclic.runtimeconfig.json
+C:\Users\EKTA\Desktop\Detect_Cyclic\bin\Debug\net6.0\Detect_Cyclic.dll
+C:\Users\EKTA\Desktop\Detect_Cyclic\bin\Debug\net6.0\ref\Detect_Cyclic.dll
+C:\Users\EKTA\Desktop\Detect_Cyclic\bin\Debug\net6.0\Detect_Cyclic.pdb
+C:\Users\EKTA\Desktop\Detect_Cyclic\obj\Debug\net6.0\Detect_Cyclic.csproj.AssemblyReference.cache
+C:\Users\EKTA\Desktop\Detect_Cyclic\obj\Debug\net6.0\Detect_Cyclic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKTA\Desktop\Detect_Cyclic\obj\Debug\net6.0\Detect_Cyclic.AssemblyInfoInputs.cache
+C:\Users\EKTA\Desktop\Detect_Cyclic\obj\Debug\net6.0\Detect_Cyclic.AssemblyInfo.cs
+C:\Users\EKTA\Desktop\Detect_Cyclic\obj\Debug\net6.0\Detect_Cyclic.csproj.CoreCompileInputs.cache
+C:\Users\EKTA\Desktop\Detect_Cyclic\obj\Debug\net6.0\Detect_Cyclic.dll
+C:\Users\EKTA\Desktop\Detect_Cyclic\obj\Debug\net6.0\ref\Detect_Cyclic.dll
+C:\Users\EKTA\Desktop\Detect_Cyclic\obj\Debug\net6.0\Detect_Cyclic.pdb
+C:\Users\EKTA\Desktop\Detect_Cyclic\obj\Debug\net6.0\Detect_Cyclic.genruntimeconfig.cache
