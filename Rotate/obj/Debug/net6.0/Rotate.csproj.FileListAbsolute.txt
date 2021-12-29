@@ -1,0 +1,15 @@
+C:\Users\EKTA\Desktop\Rotate\bin\Debug\net6.0\Rotate.exe
+C:\Users\EKTA\Desktop\Rotate\bin\Debug\net6.0\Rotate.deps.json
+C:\Users\EKTA\Desktop\Rotate\bin\Debug\net6.0\Rotate.runtimeconfig.json
+C:\Users\EKTA\Desktop\Rotate\bin\Debug\net6.0\Rotate.dll
+C:\Users\EKTA\Desktop\Rotate\bin\Debug\net6.0\ref\Rotate.dll
+C:\Users\EKTA\Desktop\Rotate\bin\Debug\net6.0\Rotate.pdb
+C:\Users\EKTA\Desktop\Rotate\obj\Debug\net6.0\Rotate.csproj.AssemblyReference.cache
+C:\Users\EKTA\Desktop\Rotate\obj\Debug\net6.0\Rotate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKTA\Desktop\Rotate\obj\Debug\net6.0\Rotate.AssemblyInfoInputs.cache
+C:\Users\EKTA\Desktop\Rotate\obj\Debug\net6.0\Rotate.AssemblyInfo.cs
+C:\Users\EKTA\Desktop\Rotate\obj\Debug\net6.0\Rotate.csproj.CoreCompileInputs.cache
+C:\Users\EKTA\Desktop\Rotate\obj\Debug\net6.0\Rotate.dll
+C:\Users\EKTA\Desktop\Rotate\obj\Debug\net6.0\ref\Rotate.dll
+C:\Users\EKTA\Desktop\Rotate\obj\Debug\net6.0\Rotate.pdb
+C:\Users\EKTA\Desktop\Rotate\obj\Debug\net6.0\Rotate.genruntimeconfig.cache
