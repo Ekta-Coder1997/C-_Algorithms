@@ -1,0 +1,15 @@
+C:\Users\EKTA\Desktop\Reverse\bin\Debug\net6.0\Reverse.exe
+C:\Users\EKTA\Desktop\Reverse\bin\Debug\net6.0\Reverse.deps.json
+C:\Users\EKTA\Desktop\Reverse\bin\Debug\net6.0\Reverse.runtimeconfig.json
+C:\Users\EKTA\Desktop\Reverse\bin\Debug\net6.0\Reverse.dll
+C:\Users\EKTA\Desktop\Reverse\bin\Debug\net6.0\ref\Reverse.dll
+C:\Users\EKTA\Desktop\Reverse\bin\Debug\net6.0\Reverse.pdb
+C:\Users\EKTA\Desktop\Reverse\obj\Debug\net6.0\Reverse.csproj.AssemblyReference.cache
+C:\Users\EKTA\Desktop\Reverse\obj\Debug\net6.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKTA\Desktop\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfoInputs.cache
+C:\Users\EKTA\Desktop\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfo.cs
+C:\Users\EKTA\Desktop\Reverse\obj\Debug\net6.0\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\EKTA\Desktop\Reverse\obj\Debug\net6.0\Reverse.dll
+C:\Users\EKTA\Desktop\Reverse\obj\Debug\net6.0\ref\Reverse.dll
+C:\Users\EKTA\Desktop\Reverse\obj\Debug\net6.0\Reverse.pdb
+C:\Users\EKTA\Desktop\Reverse\obj\Debug\net6.0\Reverse.genruntimeconfig.cache
